@@ -69,6 +69,7 @@ Make sure you have Modelsim installed on your machine. ModelSim is a multi-langu
 ## Credits
 
 - [Mahdi Noori](https://github.com/MahdiNoori2003)
+- [Zeinab Pishbin](http://github.com/PishbinZeinb)
 
 ## Contact
 
